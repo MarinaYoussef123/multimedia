@@ -1,0 +1,33 @@
+E:\4 rab3a\multimedia\multimedia\multimedia\bin\Debug\multimedia.exe.config
+E:\4 rab3a\multimedia\multimedia\multimedia\bin\Debug\multimedia.exe
+E:\4 rab3a\multimedia\multimedia\multimedia\bin\Debug\multimedia.pdb
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.main.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.rlc.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.Cache
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.exe
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.pdb
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.rlc_decode.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.csprojResolveAssemblyReference.cache
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.data_show.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.shanon.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.huffman.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.arth.resources
+E:\4 rab3a\multimedia\multimedia\multimedia\obj\Debug\multimedia.adabtive_hufman.resources
+C:\Users\office\Downloads\multimedia\multimedia\bin\Debug\multimedia.exe.config
+C:\Users\office\Downloads\multimedia\multimedia\bin\Debug\multimedia.exe
+C:\Users\office\Downloads\multimedia\multimedia\bin\Debug\multimedia.pdb
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.csprojAssemblyReference.cache
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.adabtive_hufman.resources
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.data_show.resources
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.huffman.resources
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.arth.resources
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.main.resources
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.Properties.Resources.resources
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.rlc.resources
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.rlc_decode.resources
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.shanon.resources
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.csproj.GenerateResource.cache
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.csproj.CoreCompileInputs.cache
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.exe
+C:\Users\office\Downloads\multimedia\multimedia\obj\Debug\multimedia.pdb
